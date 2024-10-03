@@ -19,9 +19,11 @@ https://lingopress.me
 
 ### 아키텍쳐
 
-![LingoPress_architecture png](https://github.com/user-attachments/assets/75525aed-5037-48ee-9e4e-02fa5c9384d2)
+![LingoPress_architecture png](https://github.com/user-attachments/assets/bdec63e2-ff29-4dfa-aa63-57352a0f78bd)
+
 
 ### 개발 환경 및 도구
+
 
 #### 백엔드
 
