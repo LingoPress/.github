@@ -19,7 +19,7 @@ https://lingopress.me
 
 ### 아키텍쳐
 
-![LingoPress_architecture png](https://github.com/user-attachments/assets/bdec63e2-ff29-4dfa-aa63-57352a0f78bd)
+![image](https://github.com/user-attachments/assets/dcc3156b-5e2b-4a25-b982-e268a852bed2)
 
 
 ### 개발 환경 및 도구
