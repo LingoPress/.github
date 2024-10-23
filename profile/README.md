@@ -21,6 +21,8 @@ https://lingopress.me
 
 ![image](https://github.com/user-attachments/assets/dcc3156b-5e2b-4a25-b982-e268a852bed2)
 
+### [DB 다이어그램](https://dbdiagram.io/d/LingoPress-65d1b18eac844320ae6408ca)
+
 
 ### 개발 환경 및 도구
 
