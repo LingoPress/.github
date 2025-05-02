@@ -18,11 +18,14 @@ https://lingopress.me
 읽었던 기사들과 번역에 도전했던 내용들은 별도로 모아, 학습의 효과를 극대화할 수 있도록 도와드립니다. 📋🎓
 
 ### 아키텍쳐
-
+AS-IS
 ![image](https://github.com/user-attachments/assets/dcc3156b-5e2b-4a25-b982-e268a852bed2)
+TO-BE
+![image](https://github.com/user-attachments/assets/5120e23c-53c3-4d05-b1a0-dee41c932caa)
 
 ### [DB 다이어그램](https://dbdiagram.io/d/LingoPress-65d1b18eac844320ae6408ca)
 
+### [개발 스프린트 요약](https://sharechang.notion.site/2-db4dbb618e1347228a6bd13a0dc20182?pvs=4)
 
 ### 개발 환경 및 도구
 
